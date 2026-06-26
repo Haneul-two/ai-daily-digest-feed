@@ -1,0 +1,64 @@
+{
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T08:50:00+09:00",
+  "trend": "(샘플) 프런티어 모델 발표가 이어지고 돌봄 분야 AI 적용 논의가 확산.",
+  "categories": [
+    {
+      "key": "ai-model",
+      "title": "AI 모델·연구 동향",
+      "items": [
+        {
+          "title": "Anthropic, Claude 3.5 Sonnet 발표",
+          "summary": "성능·효율을 끌어올린 모델 출시 공식 발표.",
+          "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+          "source": "Anthropic",
+          "publishedAt": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "key": "senior-care",
+      "title": "시니어/돌봄·헬스케어",
+      "items": [
+        {
+          "title": "인공지능 개요 — 돌봄·헬스케어 적용 배경",
+          "summary": "AI 기본 개념과 적용 영역 정리.",
+          "url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5",
+          "source": "위키백과",
+          "publishedAt": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "key": "crm-cx",
+      "title": "상담/CRM/고객경험",
+      "items": [
+        {
+          "title": "콜센터(컨택센터)란? — 상담 자동화 기초",
+          "summary": "컨택센터 구조와 자동화 개념.",
+          "url": "https://ko.wikipedia.org/wiki/%EC%BD%9C%EC%84%BC%ED%84%B0",
+          "source": "위키백과",
+          "publishedAt": "2026-06-25"
+        }
+      ]
+    },
+    {
+      "key": "world-ai",
+      "title": "세계 AI 동향·정책",
+      "items": []
+    },
+    {
+      "key": "physical-ai",
+      "title": "피지컬 AI/로봇",
+      "items": [
+        {
+          "title": "로봇 — 정의와 분야",
+          "summary": "로봇의 개념·역사·응용 분야 개요.",
+          "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%B4%87",
+          "source": "위키백과",
+          "publishedAt": "2026-06-25"
+        }
+      ]
+    }
+  ]
+}
