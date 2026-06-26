@@ -1,0 +1,56 @@
+{
+  "date": "2026-06-24",
+  "generatedAt": "2026-06-24T08:50:00+09:00",
+  "trend": "(샘플) 대규모 언어모델 연구와 로보틱스 상용화 흐름이 함께 주목.",
+  "categories": [
+    {
+      "key": "ai-model",
+      "title": "AI 모델·연구 동향",
+      "items": [
+        {
+          "title": "📄 Language Models are Few-Shot Learners (GPT-3)",
+          "summary": "대규모 언어모델의 few-shot 능력 논문.",
+          "url": "https://arxiv.org/abs/2005.14165",
+          "source": "arXiv",
+          "publishedAt": "2026-06-24"
+        }
+      ]
+    },
+    {
+      "key": "senior-care",
+      "title": "시니어/돌봄·헬스케어",
+      "items": []
+    },
+    {
+      "key": "crm-cx",
+      "title": "상담/CRM/고객경험",
+      "items": []
+    },
+    {
+      "key": "world-ai",
+      "title": "세계 AI 동향·정책",
+      "items": [
+        {
+          "title": "구글, 제미나이(Gemini) AI 공식 발표",
+          "summary": "멀티모달 모델 공식 소개.",
+          "url": "https://blog.google/technology/ai/google-gemini-ai/",
+          "source": "Google",
+          "publishedAt": "2026-06-24"
+        }
+      ]
+    },
+    {
+      "key": "physical-ai",
+      "title": "피지컬 AI/로봇",
+      "items": [
+        {
+          "title": "로봇 — 정의와 분야",
+          "summary": "로봇 개념·응용 개요.",
+          "url": "https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%B4%87",
+          "source": "위키백과",
+          "publishedAt": "2026-06-24"
+        }
+      ]
+    }
+  ]
+}
