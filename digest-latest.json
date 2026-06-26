@@ -1,12 +1,37 @@
 {
   "date": "2026-06-26",
-  "generatedAt": "2026-06-26T10:54:59+09:00",
-  "trend": "피드 초기화 — 첫 다이제스트 발행을 기다리는 중입니다.",
+  "generatedAt": "2026-06-26T13:19:39+09:00",
+  "trend": "(미리보기 샘플) 온디바이스 추론과 돌봄·상담 자동화가 동시에 속도를 내는 흐름. 내일 아침 실제 다이제스트로 자동 교체됩니다.",
   "categories": [
-    { "key": "ai-model", "title": "AI 모델·연구 동향", "items": [] },
+    {
+      "key": "ai-model",
+      "title": "AI 모델·연구 동향",
+      "items": [
+        { "title": "국내 연구진, 추론 효율 2배 높인 경량 오픈웨이트 모델 공개", "summary": "동일 정확도에서 메모리 사용을 절반으로 줄여 온디바이스 적용 가능성을 높였다.", "url": "https://www.aitimes.com", "source": "AI타임스", "publishedAt": "2026-06-26" },
+        { "title": "📄 긴 문맥 처리 비용을 낮추는 새 어텐션 기법 논문 주목", "summary": "장문 입력에서 지연·비용을 크게 줄이는 방법을 제시했다.", "url": "https://arxiv.org", "source": "arXiv", "publishedAt": "2026-06-26" }
+      ]
+    },
     { "key": "senior-care", "title": "시니어/돌봄·헬스케어", "items": [] },
-    { "key": "crm-cx", "title": "상담/CRM/고객경험", "items": [] },
-    { "key": "world-ai", "title": "세계 AI 동향·정책", "items": [] },
-    { "key": "physical-ai", "title": "피지컬 AI/로봇", "items": [] }
+    {
+      "key": "crm-cx",
+      "title": "상담/CRM/고객경험",
+      "items": [
+        { "title": "AICC 도입 콜센터, 상담 응대율·만족도 동반 개선 사례 발표", "summary": "AI 상담 자동화로 대기시간을 줄이고 단순 문의를 선처리했다.", "url": "https://www.etnews.com", "source": "전자신문", "publishedAt": "2026-06-26" }
+      ]
+    },
+    {
+      "key": "world-ai",
+      "title": "세계 AI 동향·정책",
+      "items": [
+        { "title": "주요국, 고위험 AI 투명성 의무 가이드라인 잇따라 공개", "summary": "학습 데이터·안전성 정보 공개 범위를 두고 논의가 이어지고 있다.", "url": "https://zdnet.co.kr", "source": "지디넷코리아", "publishedAt": "2026-06-26" }
+      ]
+    },
+    {
+      "key": "physical-ai",
+      "title": "피지컬 AI/로봇",
+      "items": [
+        { "title": "가정용 돌봄 보조 로봇, 국내 시범 보급 단계 진입", "summary": "복약 알림·낙상 감지 기능을 갖춘 모델이 시범 가정에 배치됐다.", "url": "https://www.hankyung.com", "source": "한국경제", "publishedAt": "2026-06-26" }
+      ]
+    }
   ]
 }
