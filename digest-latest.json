@@ -1,0 +1,12 @@
+{
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T10:54:59+09:00",
+  "trend": "피드 초기화 — 첫 다이제스트 발행을 기다리는 중입니다.",
+  "categories": [
+    { "key": "ai-model", "title": "AI 모델·연구 동향", "items": [] },
+    { "key": "senior-care", "title": "시니어/돌봄·헬스케어", "items": [] },
+    { "key": "crm-cx", "title": "상담/CRM/고객경험", "items": [] },
+    { "key": "world-ai", "title": "세계 AI 동향·정책", "items": [] },
+    { "key": "physical-ai", "title": "피지컬 AI/로봇", "items": [] }
+  ]
+}
